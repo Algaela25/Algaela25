@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi
+I'm a game developer. Play my projects in itch.io
+
+
+<a href="https://https://algaela.itch.io">algaela's profile</a>
+
+
+
+
 
 <!--
 **Algaela25/Algaela25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
